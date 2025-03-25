@@ -7,7 +7,7 @@ This repository is to do car recognition by fine-tuning ResNet-152 with Cars Dat
 
 We use the Cars Dataset, which contains 16,185 images of 196 classes of cars. The data is split into 8,144 training images and 8,041 testing images, where each class has been split roughly in a 50-50 split.
 ## ImageNet Pretrained Models
-
+This is a conflict-demo branch.
 Download [ResNet-152](https://drive.google.com/file/d/0Byy2AcGyEVxfeXExMzNNOHpEODg/view?usp=sharing) into models folder.
 
 ## Usage
